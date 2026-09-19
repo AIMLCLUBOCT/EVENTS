@@ -66,6 +66,13 @@ To protect member privacy, never upload or commit:
 
 ---
 
+## 🤝 Organizer Resources & Hackathon Sponsorships
+Looking to host a hackathon or technical challenge?
+- 💼 **[Hackathon Sponsorship Directory (Neuro-Hack/sponsorship)](https://github.com/Neuro-Hack/sponsorship):** Directory of developer tools, API grants, and potential tech sponsors for student hackathons.
+- 🎓 **[A-to-Z Resources for Students (dipakkr)](https://github.com/dipakkr/A-to-Z-Resources-for-Students):** Student developer packs, domain credits, and cloud credits.
+
+---
+
 ## 🌐 Stay Connected
 
 - 🔴 **Real-Time Live Updates:** [live.aimlcluboct.in](https://live.aimlcluboct.in)
