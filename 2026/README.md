@@ -9,7 +9,7 @@
 | Date | Event Title | Category | Status | Details / Documentation |
 | :--- | :--- | :--- | :--- | :--- |
 | **Jan 21, 2026** | Introduction to Machine Learning | Technical Workshop | Completed | [Event Overview & Materials](./2026-01-21-intro-to-machine-learning/) |
-| **Q1 2026** | Hands-on PyTorch & Computer Vision Bootcamp | Bootcamps | Completed | Code preserved in [Workshops/beginner](../../Workshops/beginner) |
+| **Q1 2026** | Hands-on PyTorch & Computer Vision Bootcamp | Bootcamps | Completed | Code preserved in [Workshops/beginner](https://github.com/AIMLCLUBOCT/Workshops/tree/main/beginner) |
 | **Upcoming** | AIML Club OCT Annual Hackathon | Hackathon | Upcoming | Real-time announcements on [live.aimlcluboct.in](https://live.aimlcluboct.in) |
 
 ---

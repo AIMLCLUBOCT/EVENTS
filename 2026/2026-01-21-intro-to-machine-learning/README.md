@@ -28,11 +28,11 @@ This session was designed as a zero-to-one entry point for students stepping int
 2. **The 3 Paradigms:** Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
 3. **The ML Pipeline:** Data collection $\to$ Cleaning $\to$ Feature Extraction $\to$ Training $\to$ Evaluation.
 4. **Environment Setup:** Getting started with Python 3.10+, VS Code, and virtual environments.
-5. **Community Roadmaps:** Introduction to the [AIML Club OCT Learning Resources](../../../learning_resources/).
+5. **Community Roadmaps:** Introduction to the [AIML Club OCT Learning Resources](https://github.com/AIMLCLUBOCT/learning_resources).
 
 ---
 
 ## 🔗 Related Resources
-- [Module 01: Python for AI](../../../learning_resources/01-python/)
-- [Module 04: Classical Machine Learning](../../../learning_resources/04-machine-learning/)
-- [Beginner Roadmap](../../../learning_resources/00-roadmap/beginner-roadmap.md)
+- [Module 01: Python for AI](https://github.com/AIMLCLUBOCT/learning_resources/tree/main/01-python)
+- [Module 04: Classical Machine Learning](https://github.com/AIMLCLUBOCT/learning_resources/tree/main/04-machine-learning)
+- [Beginner Roadmap](https://github.com/AIMLCLUBOCT/learning_resources/blob/main/00-roadmap/beginner-roadmap.md)
