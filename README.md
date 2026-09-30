@@ -27,6 +27,7 @@ Explore past and upcoming sessions by year:
 
 - 📅 [**2026 Events Archive (`2026/`)**](./2026/): Active year events, AI challenges, and expert workshops.
 - 📅 [**2025 Events Archive (`2025/`)**](./2025/): Club founding orientation, inaugural sessions, and foundational meetups.
+- 📸 [**Official Media Records & Photo Gallery**](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing): High-res workshop moments, event memories, posters, and certificates on Google Drive.
 - 🧩 [**Event Documentation Templates (`templates/`)**](./templates/): Reusable templates for event organizers and leads.
 
 ---
