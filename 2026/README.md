@@ -2,19 +2,22 @@
 
 > Active calendar, hackathons, and technical workshops organized during 2026 by AIML Club OCT.
 
----
-
-## Chronological Index
-
-| Date | Event Title | Category | Status | Details / Documentation |
-| :--- | :--- | :--- | :--- | :--- |
-| **Jan 21, 2026** | Introduction to Machine Learning | Technical Workshop | Completed | [Event Overview & Materials](./2026-01-21-intro-to-machine-learning/) |
-| **Q1 2026** | Hands-on PyTorch & Computer Vision Bootcamp | Bootcamps | Completed | Code preserved in [Workshops/beginner](https://github.com/AIMLCLUBOCT/Workshops/tree/main/beginner) |
-| **Upcoming** | AIML Club OCT Annual Hackathon | Hackathon | Upcoming | Real-time announcements on [live.aimlcluboct.in](https://live.aimlcluboct.in) |
+[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=flat-square)](https://aimlcluboct.in)
+[![Photos Available](https://img.shields.io/badge/Media_Gallery-Google_Drive-green.svg?style=flat-square)](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing)
 
 ---
 
-## Featured Event: Introduction to Machine Learning (Jan 21, 2026)
-- **Overview:** A beginner-friendly guide to understanding the fundamentals of Machine Learning, types of ML algorithms, and practical real-world applications.
-- **Key Takeaways:** Supervised vs. Unsupervised learning, setting up Python with VS Code, and building an intuition for prediction models.
-- **Official Article:** [aimlcluboct.in/blog/intro-to-machine-learning](https://aimlcluboct.in/blog/intro-to-machine-learning)
+## 📅 Chronological Index
+
+| Date / Period | Event Title | Category | Status | Details / Documentation | Drive Media Folder |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Jan 21, 2026** | [**Intro to Machine Learning**](./2026-01-21-intro-to-machine-learning/) | Technical Workshop | Completed | [Overview & Materials](./2026-01-21-intro-to-machine-learning/) | — |
+| **Feb 2026** | [**Aptify 2.0 & Winners Ceremony**](./aptify-2.0/) | Competition & Awards | Completed | [Event Details](./aptify-2.0/) | `Aptify 2.0` & `Aptify 2.0 winner's...` |
+| **March 2026** | [**INNOVATE: Applied AI Workshop**](./innovate-workshop/) | Hands-on Workshop | Completed | [Workshop Summary](./innovate-workshop/) | `INNOVATE WrKS...` |
+| **2026** | [**CSC 2026 Convention Memories**](./csc-2026/) | Symposium / Meetup | Completed | [Convention Archive](./csc-2026/) | `CSC 2026 memories` |
+| **Upcoming** | **AIML Club OCT Annual Hackathon** | Hackathon | Upcoming | Live updates on [live.aimlcluboct.in](https://live.aimlcluboct.in) | — |
+
+---
+
+## 📸 Photo & Media Archive
+High-resolution photos, event posters, and participant certificates are stored in the [**Official Google Drive Media Records**](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing).

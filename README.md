@@ -30,6 +30,25 @@ Explore past and upcoming sessions by year:
 - 📸 [**Official Media Records & Photo Gallery**](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing): High-res workshop moments, event memories, posters, and certificates on Google Drive.
 - 🧩 [**Event Documentation Templates (`templates/`)**](./templates/): Reusable templates for event organizers and leads.
 
+### 📸 Internal Media Folders (Google Drive Directory)
+
+The [**AiML Club media records**](https://drive.google.com/drive/folders/1-_byssQsFS1pw02iDxyt40_n2CdCBaOk?usp=sharing) Google Drive archive contains dedicated media folders matching our technical events:
+
+| Google Drive Folder | Description / Content | Corresponding Repo Archive |
+| :--- | :--- | :--- |
+| `club inugration` | Club inauguration ceremony, founding team photos, and charter launch. | [**`2025/club-inauguration`**](./2025/club-inauguration/) |
+| `10-12 Sep. Workshop` & `cert 10-12` | 3-Day foundational AI/ML bootcamp sessions and participant certificates. | [**`2025/10-12-sep-workshop`**](./2025/10-12-sep-workshop/) |
+| `13-oct (Aptify)` | Aptify 1.0 technical aptitude challenge and problem statements. | [**`2025/aptify-1.0`**](./2025/aptify-1.0/) |
+| `Aptify 2.0` & `Aptify 2.0 winner's...` | Aptify 2.0 advanced coding round and winners felicitation. | [**`2026/aptify-2.0`**](./2026/aptify-2.0/) |
+| `CODIFY (AI&ML)...` | CODIFY competitive algorithm sprint photos and contest records. | [**`2025/codify-aiml`**](./2025/codify-aiml/) |
+| `CSC 2026 memories` | Annual technical convention memories and student exhibits. | [**`2026/csc-2026`**](./2026/csc-2026/) |
+| `INNOVATE WrKS...` | INNOVATE hands-on applied AI engineering workshop. | [**`2026/innovate-workshop`**](./2026/innovate-workshop/) |
+| `Sheriyans workshop` | Collaborative workshop conducted with Sheryians Coding School. | [**`2025/sheriyans-workshop`**](./2025/sheriyans-workshop/) |
+| `SNAPCODE` | SNAPCODE fast-paced logic and coding challenge. | [**`2025/snapcode`**](./2025/snapcode/) |
+| `Zonals bhopal` | Regional technical competition delegation representing OCT. | [**`2025/zonals-bhopal`**](./2025/zonals-bhopal/) |
+| `EVENT MOMENTS` & `EDIT'S BY AASHU` | Photography highlights, creative edits, and event reels. | — |
+| `Posters` & `CLUB Editor material` | High-res promotional posters, logos, and raw graphics assets. | — |
+
 ---
 
 ## 📅 Event Formats & Activities
