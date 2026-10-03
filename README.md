@@ -43,6 +43,7 @@ The [**AiML Club media records**](https://drive.google.com/drive/folders/1-_byss
 | `CODIFY (AI&ML)...` | CODIFY competitive algorithm sprint photos and contest records. | [**`2025/codify-aiml`**](./2025/codify-aiml/) |
 | `CSC 2026 memories` | Annual technical convention memories and student exhibits. | [**`2026/csc-2026`**](./2026/csc-2026/) |
 | `INNOVATE WrKS...` | INNOVATE hands-on applied AI engineering workshop. | [**`2026/innovate-workshop`**](./2026/innovate-workshop/) |
+| `Intro to ML 2026` | Foundational machine learning workshop and student orientation. | [**`2026/2026-01-21-intro-to-machine-learning`**](./2026/2026-01-21-intro-to-machine-learning/) |
 | `Sheriyans workshop` | Collaborative workshop conducted with Sheryians Coding School. | [**`2025/sheriyans-workshop`**](./2025/sheriyans-workshop/) |
 | `SNAPCODE` | SNAPCODE fast-paced logic and coding challenge. | [**`2025/snapcode`**](./2025/snapcode/) |
 | `Zonals bhopal` | Regional technical competition delegation representing OCT. | [**`2025/zonals-bhopal`**](./2025/zonals-bhopal/) |
