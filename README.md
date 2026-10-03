@@ -1,10 +1,19 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=230&section=header&text=AIML%20Events%20Archive&fontSize=46&fontColor=ffffff&animation=fadeIn" alt="Events Archive Header" width="100%"/>
+
 # 🎤 AIML Club OCT Events Archive
 
-> Central repository archiving hackathons, technical workshops, expert guest sessions, webinars, and community orientations hosted by the **AI & Machine Learning Club – Oriental College of Technology, Bhopal**.
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Historical+Event+Archive+%E2%80%A2+Technical+Bootcamps+%E2%80%A2+Conventions;Hackathons+%E2%80%A2+Aptify+2.0+%E2%80%A2+CSC+2026+%E2%80%A2+Innovate+Workshops;High-Resolution+Photo+Records+%E2%80%A2+Session+Slides+%E2%80%A2+Outcomes" alt="Typing Tagline"/>
 
-[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=flat-square)](https://aimlcluboct.in)
-[![Live Updates](https://img.shields.io/badge/Live_Updates-live.aimlcluboct.in-red.svg?style=flat-square)](https://live.aimlcluboct.in)
-[![Events Portal](https://img.shields.io/badge/Events_Portal-aimlcluboct.in/events-green.svg?style=flat-square)](https://aimlcluboct.in/events)
+<br/><br/>
+
+[![Live Web Portal](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io/#events)
+[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
+[![Live Updates](https://img.shields.io/badge/Live_Updates-live.aimlcluboct.in-red.svg?style=for-the-badge)](https://live.aimlcluboct.in)
+[![Events Portal](https://img.shields.io/badge/Events_Portal-aimlcluboct.in/events-green.svg?style=for-the-badge)](https://aimlcluboct.in/events)
+
+</div>
 
 ---
 
@@ -100,3 +109,9 @@ Looking to host a hackathon or technical challenge?
 - 🌐 **Events Portal:** [aimlcluboct.in/events](https://aimlcluboct.in/events)
 - 📢 **WhatsApp Announcements:** [AIML Club Official Channel](https://whatsapp.com/channel/0029VbAthv38V0tfulumuV1D)
 - 🗣️ **Event Feedback & Ideas:** [voice.aimlcluboct.in](https://voice.aimlcluboct.in)
+
+<br/>
+<div align="center">
+<sub>© 2026 AI & Machine Learning Club – Oriental College of Technology, Bhopal.</sub><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0052CC,8A2BE2,00F5FF&height=100&section=footer" width="100%"/>
+</div>
