@@ -9,7 +9,8 @@
 <br/><br/>
 
 [![Live Web Portal](https://img.shields.io/badge/Web_Portal-aimlcluboct.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=black)](https://aimlcluboct.github.io/#events)
-[![AIML Club OCT](https://img.shields.io/badge/AIML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
+[![Live Activities](https://img.shields.io/badge/Live_Activities-Student_Radar-FF6B6B?style=for-the-badge&logo=rss)](https://aimlcluboct.github.io/#activities)
+[![AI & Machine Learning Club](https://img.shields.io/badge/AI_%26_ML_Club-OCT_Bhopal-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimlcluboct.in)
 [![Live Updates](https://img.shields.io/badge/Live_Updates-live.aimlcluboct.in-red.svg?style=for-the-badge)](https://live.aimlcluboct.in)
 [![Events Portal](https://img.shields.io/badge/Events_Portal-aimlcluboct.in/events-green.svg?style=for-the-badge)](https://aimlcluboct.in/events)
 
@@ -17,9 +18,12 @@
 
 ---
 
+> [!IMPORTANT]
+> **📢 Live Student Notice & Activity Board:** Upcoming hackathons, guest lectures, and registration announcements are tracked live on our **[Live Activities Radar on aimlcluboct.github.io/#activities ↗](https://aimlcluboct.github.io/#activities)**.
+
 ## Overview
 
-The **EVENTS** repository serves as the official, historical archive of all technical events and student gatherings conducted by AIML Club OCT. 
+The **EVENTS** repository serves as the official, historical archive of all technical events and student gatherings conducted by the **AI & Machine Learning Club (AIML Club OCT)**, **Oriental College of Technology, Bhopal**. 
 
 For every event, we maintain an archived record with:
 - Speaker & Organizer profiles.
